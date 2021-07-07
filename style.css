@@ -3,28 +3,36 @@
   padding: 0;
 }
 header {
-  margin: 40px 280px 25px;
-  padding: 5px 0;
+/*   margin: 40px 280px 25px;
+  padding: 5px 0; */
+  margin: 2%;
+  padding: 1% 0;
   background-color: crimson;
   text-align: center;
   border: 4px double rgb(27, 0, 0);
 }
 input {
-  margin-left: 370px;
+/*   margin-left: 370px; */
+  margin: 1% 28%;
   border: 1px solid black;
-  padding: 40px 180px;
+/*   padding: 40px 180px; */
+  padding: 3% 10%;
 }
 #add {
-  padding: 5px 20px;
+/*   padding: 5px 20px;
   margin-left: 820px;
   top: 186px;
-  position: absolute;
+  position: absolute; */
+  padding: 0.5% 2%;
+  margin-left: 61%;
 }
 h2 {
-  margin-left: 120px;
+/*   margin-left: 120px; */
+  margin: 1% 12%;
 }
 div {
-  margin: 30px 120px 15px;
+/*   margin: 30px 120px 15px; */
+  margin: 3% 12%;
 }
 big {
   font-size: 1.7rem;
