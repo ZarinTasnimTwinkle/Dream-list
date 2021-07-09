@@ -2,8 +2,219 @@
   margin: 0;
   padding: 0;
 }
+@media (max-width: 1341px) {
+  input {
+    margin: 1% 0 1% 27%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+}
+@media (max-width: 1268px) {
+  input {
+    margin: 1% 0 1% 26%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+}
+@media (max-width: 1175px) {
+  input {
+    margin: 1% 0 1% 25%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+}
+@media (max-width: 1111px) {
+  input {
+    margin: 1% 0 1% 24%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+}
+@media (max-width: 1052px) {
+  input {
+    margin: 1% 0 1% 23%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+}
+@media (max-width: 998px) {
+  input {
+    margin: 1% 0 1% 22%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+}
+@media (max-width: 949px) {
+  input {
+    margin: 1% 0 1% 21%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+}
+@media (max-width: 906px) {
+  input {
+    margin: 1% 0 1% 20%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+}
+@media (max-width: 868px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 32%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 832px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 31%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 798px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 30%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 765px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 29%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 737px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 28%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 710px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 27%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 686px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 23%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 607px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 18%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 525px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 14%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 500px) {
+  input {
+    margin: 1% 0 1% 22%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 12%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 414px) {
+  input {
+    margin: 1% 0 1% 22%;
+    border: 1px solid black;
+    padding: 3% 5%;
+  }
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 12%;
+    margin-top: 3%;
+    float: right;
+  }
+}
+@media (max-width: 375px) {
+  input {
+    margin: 1% 0 1% 20%;
+    border: 1px solid black;
+    padding: 4% 1%;
+  }
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 18%;
+    margin-top: 3%;
+    float: right;
+  }
+  h2 {
+    margin: 1% 8%;
+  }
+  div {
+    margin: 3% 8%;
+  }
+}
+@media (max-width: 360px) {
+  input {
+    margin: 1% 0 1% 20%;
+    border: 1px solid black;
+    padding: 4% 1%;
+  }
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 15%;
+    margin-top: 3%;
+    float: right;
+  }
+  h2 {
+    margin: 1% 5%;
+  }
+  div {
+    margin: 3% 5%;
+  }
+}
+@media (max-width: 320px) {
+  input {
+    margin: 1% 0 1% 18%;
+    border: 1px solid black;
+    padding: 4% 1%;
+  }
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 12%;
+    margin-top: 3%;
+    float: right;
+  }
+  h2 {
+    margin: 1% 10%;
+  }
+  div {
+    margin: 3% 10%;
+  }
+}
 header {
-/*   margin: 40px 280px 25px;
+  /* margin: 40px 280px 25px;
   padding: 5px 0; */
   margin: 2%;
   padding: 1% 0;
@@ -11,28 +222,35 @@ header {
   text-align: center;
   border: 4px double rgb(27, 0, 0);
 }
-input {
-/*   margin-left: 370px; */
-  margin: 1% 28%;
-  border: 1px solid black;
-/*   padding: 40px 180px; */
-  padding: 3% 10%;
+@media (min-width: 1342px) {
+  input {
+    /* margin-left: 370px; */
+    /* padding: 40px 180px; */
+    margin: 1% 0 1% 28%;
+    border: 1px solid black;
+    padding: 3% 10%;
+  }
 }
-#add {
-/*   padding: 5px 20px;
-  margin-left: 820px;
-  top: 186px;
-  position: absolute; */
-  padding: 0.5% 2%;
-  margin-left: 61%;
+@media (min-width: 869px) {
+  #add {
+    padding: 0.5% 2%;
+    margin-right: 33%;
+    margin-top: 3%;
+    float: right;
+    /* position: absolute; */
+  }
 }
-h2 {
-/*   margin-left: 120px; */
-  margin: 1% 12%;
+@media (min-width: 376px) {
+  h2 {
+    /* margin-left: 120px; */
+    margin: 1% 12%;
+  }
 }
-div {
-/*   margin: 30px 120px 15px; */
-  margin: 3% 12%;
+@media (min-width: 376px) {
+  div {
+    /* margin: 30px 120px 15px; */
+    margin: 3% 12%;
+  }
 }
 big {
   font-size: 1.7rem;
